@@ -1,0 +1,10 @@
+Usuario:
+admin
+admin1234
+
+mongodb+srv://admin:<password>@ticket-api.5umtfw4.mongodb.net/?retryWrites=true&w=majority
+
+
+comentarios
+
+Alt + Shift + A 
